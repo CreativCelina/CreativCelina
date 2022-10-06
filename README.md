@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CreativCelina
 - 👀 I’m interested in Art, History and culture
-- 🌱 I’m currently learning Application developer apprenticeship
+- 🌱 I’m currently learning Application developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me margreiter.celina@gmail.com
 
